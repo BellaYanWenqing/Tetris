@@ -1,0 +1,66 @@
+[Info] [2024-1-5 10:20:45] /***************************Start Configuration***************************/
+[Info] [2024-1-5 10:20:45] Path: C:/pango/PDS_2022.1/bin
+[Info] [2024-1-5 10:20:45] Version: 99559
+[Info] [2024-1-5 10:20:46] Current Path: C:/Users/86132/Desktop/Template_Final_Terris1
+[Info] [2024-1-5 10:20:46] PDS Dir Path: C:/Users/86132/Desktop/Template_Final_Terris1
+[Info] [2024-1-5 10:20:52] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-1-5 10:20:52] Client Local host name:wenqing???
+[Debug] [2024-1-5 10:20:52] Client Local Address:10.27.122.28
+[Debug] [2024-1-5 10:20:52] Client Local Address:192.168.102.1
+[Debug] [2024-1-5 10:20:52] Client Local Address:192.168.79.1
+[Debug] [2024-1-5 10:20:52] Server Address:127.0.0.1, Port:65420
+[Info] [2024-1-5 10:20:53] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-1-5 10:20:53] Finish.
+[Info] [2024-1-5 10:20:53] Connect server succeeded
+[Debug] [2024-1-5 10:20:53] Send RPC:1
+[Debug] [2024-1-5 10:20:53] Send cmd [check version information:40005] OK
+[Debug] [2024-1-5 10:20:53] Send RPC:2
+[Debug] [2024-1-5 10:20:53] Send cmd [get_cable_paras:40011] OK
+[Debug] [2024-1-5 10:20:53] Begin to send initialize chain cmd...
+[Debug] [2024-1-5 10:20:53] Send RPC:3
+[Debug] [2024-1-5 10:20:53] Send cmd [Open config cable:20001] OK
+[Debug] [2024-1-5 10:20:53] End to send initialize chain cmd.
+[Debug] [2024-1-5 10:20:53] COMMAND[check version information] execute successfully, takes 0.0 secs.
+[Debug] [2024-1-5 10:20:53] COMMAND[get_cable_paras] execute successfully, takes 0.8 secs.
+[Debug] [2024-1-5 10:20:54] begin the exec of open cable cmd...
+[Debug] [2024-1-5 10:20:54] Begin to deal with chain from server...
+[Debug] [2024-1-5 10:20:54] Begin to set user chain...
+[Debug] [2024-1-5 10:20:54] End to set user chain.
+[Debug] [2024-1-5 10:20:54] Begin to update graphic item and tree item ...
+[Debug] [2024-1-5 10:20:54] End to update graphic item and tree item ...
+[Info] [2024-1-5 10:21:02] set OpenLastPath: C:/Users/86132/Desktop/Template_Final_Terris1/generate_bitstream/Top.sbit
+[Debug] [2024-1-5 10:21:02] begin to get device info from CFG file...
+[Debug] [2024-1-5 10:21:02] end to get device info from CFG file...
+[Debug] [2024-1-5 10:21:02] Begin to update graphic item and tree item ...
+[Debug] [2024-1-5 10:21:02] End to update graphic item and tree item ...
+[Debug] [2024-1-5 10:21:02] End to deal wiht chain from server.
+[Debug] [2024-1-5 10:21:02] end the exec of open cable cmd.
+[Debug] [2024-1-5 10:21:02] COMMAND[Open config cable] execute successfully, takes 9.3 secs.
+[Debug] [2024-1-5 10:21:04] Begin to send programming cmd...
+[Debug] [2024-1-5 10:21:04] Send RPC:4
+[Debug] [2024-1-5 10:21:04] Begin to send program data.
+[Debug] [2024-1-5 10:21:04] End to send program data.
+[Debug] [2024-1-5 10:21:04] Send cmd [Program:20002] OK
+[Debug] [2024-1-5 10:21:05] The value of Progress is 6
+[Debug] [2024-1-5 10:21:05] The value of Progress is 10
+[Debug] [2024-1-5 10:21:05] The value of Progress is 15
+[Debug] [2024-1-5 10:21:05] The value of Progress is 20
+[Debug] [2024-1-5 10:21:05] The value of Progress is 25
+[Debug] [2024-1-5 10:21:05] The value of Progress is 30
+[Debug] [2024-1-5 10:21:05] The value of Progress is 35
+[Debug] [2024-1-5 10:21:05] The value of Progress is 40
+[Debug] [2024-1-5 10:21:05] The value of Progress is 45
+[Debug] [2024-1-5 10:21:05] The value of Progress is 50
+[Debug] [2024-1-5 10:21:06] The value of Progress is 55
+[Debug] [2024-1-5 10:21:06] The value of Progress is 60
+[Debug] [2024-1-5 10:21:06] The value of Progress is 65
+[Debug] [2024-1-5 10:21:06] The value of Progress is 70
+[Debug] [2024-1-5 10:21:06] The value of Progress is 75
+[Debug] [2024-1-5 10:21:06] The value of Progress is 80
+[Debug] [2024-1-5 10:21:06] The value of Progress is 85
+[Debug] [2024-1-5 10:21:06] The value of Progress is 90
+[Debug] [2024-1-5 10:21:06] The value of Progress is 95
+[Debug] [2024-1-5 10:21:06] The value of Progress is 100
+[Debug] [2024-1-5 10:21:06] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2024-1-5 10:21:06] End to send programming cmd.
+[Info] [2024-1-5 12:03:23] /***************************End Configration***************************/
